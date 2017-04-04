@@ -20,7 +20,6 @@ Enter customer id:
 
 1
 
-user state:CA
 
 90001
 
