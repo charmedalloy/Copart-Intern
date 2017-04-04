@@ -67,7 +67,7 @@ public class MinimumDistance {
             if (d.locationMap.containsKey(minZipCode)) {
                 System.out.println(minZipCode);
                 CopartLocations nearestLoc = (CopartLocations) d.locationMap.get(minZipCode);
-                System.out.println(nearestLoc.address);
+                System.out.println("Nearest Location: "+nearestLoc.address);
             }
 
         }
