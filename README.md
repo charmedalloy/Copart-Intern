@@ -11,6 +11,7 @@ Rules.csv
 copartLocations.csv
 
 
+
 Enter zip: 
 93307
 Enter customer id: 
