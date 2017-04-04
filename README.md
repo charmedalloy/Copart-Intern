@@ -17,6 +17,7 @@ Enter zip:
 Enter customer id: 
 1
 user state:CA
+
 90001
 8423 SOUTH ALAMEDA
 
