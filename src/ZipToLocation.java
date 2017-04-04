@@ -8,7 +8,7 @@ import java.net.URL;
 public class ZipToLocation {
     static String API_KEY = //"Awz3TOoQfIYDhQI8rkPpEtHtbnlthRCSocWh0l8f46TlXCuoWkNBNv5ZSqtai53G";
             "ZuPi20JbImiSmPQwRg81JciUcxBz6K85fYnhY7tHtLzQBqmsGuuqHNkUlWtrGBwW";
-
+    // for getting location (State) of the zipcode
     public static String getPlaceFromZipCode(String zipCode) {
         String clientKey = API_KEY;
 
