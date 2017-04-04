@@ -6,8 +6,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class ZipToLocation {
-    static String API_KEY = //"Awz3TOoQfIYDhQI8rkPpEtHtbnlthRCSocWh0l8f46TlXCuoWkNBNv5ZSqtai53G";
-            "ZuPi20JbImiSmPQwRg81JciUcxBz6K85fYnhY7tHtLzQBqmsGuuqHNkUlWtrGBwW";
+    static String API_KEY = "Awz3TOoQfIYDhQI8rkPpEtHtbnlthRCSocWh0l8f46TlXCuoWkNBNv5ZSqtai53G";
+            //"ZuPi20JbImiSmPQwRg81JciUcxBz6K85fYnhY7tHtLzQBqmsGuuqHNkUlWtrGBwW";
 
     public static String getPlaceFromZipCode(String zipCode) {
         String clientKey = API_KEY;
