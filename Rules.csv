@@ -1,0 +1,7 @@
+vehicleType,Seller,"OutOfState(can have only 3 values 1 = allowed, -1 = not allowed, 0 = not considered)",Yard
+Automobile,1,1,
+Automobile,2,-1,5
+ANY-OTHER,2,0,2
+Boat,1,0,300
+Truck,1,1,"122,33,111,44"
+Truck,3,-1,"124,33,111"
